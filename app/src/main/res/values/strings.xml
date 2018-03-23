@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="ques">Question </string>
+    <string name="score_jtoast">Score:</string>
+    <string name="scoretot_jToast">/10</string>
+    <string name="error_jToast">Select any one of the given option</string>
+    <string name="header">General Knowledge Quiz</string>
+    <string name="next">next</string>
+    <string name="try_again">Try Again</string>
+
+    <string-array name="qna">
+        <item>1) A tree\'s age can be found by?</item>
+        <item>counting the number of annual rings</item>
+        <item>counting the number of branches</item>
+        <item>measuring its height</item>
+        <item>measuring its girth</item>
+
+        <item>2) Acute lead poisoning is also known as?</item>
+        <item>Plumbism</item>
+        <item>Neuralgia</item>
+        <item>Itai-itai</item>
+        <item>Byssinosis</item>
+
+        <item>3) Idukki Dam in Kerala is built across which river ?</item>
+        <item>A) Kaveri</item>
+        <item>B) Pamba</item>
+        <item>C) Godavari</item>
+        <item>D) Periyar</item>
+
+        <item>4) In 1206, who founded the Slave Dynasty, in India ?</item>
+        <item>A) Iltutmish</item>
+        <item>B) Razia Sultan</item>
+        <item>C) Qutubuddin Aibak</item>
+        <item>D) Balban</item>
+
+        <item>5) In 305 BC, which Maurya ruler defeated Alexander\'s general Seleucus Nicator and received the territories of Kabul and Balochistan?</item>
+        <item>A) Bindusara</item>
+        <item>B) Chandragupta Maurya</item>
+        <item>C) Ashoka</item>
+        <item>D) Pulkeshin II</item>
+
+        <item>6) In terms of area, which is the smallest continent ?</item>
+        <item>A) South America</item>
+        <item>B) Asia</item>
+        <item>C) Australia</item>
+        <item>D) Europe</item>
+
+        <item>7) In the Parliament of India Upper House is known as ?</item>
+        <item>A) Council of States</item>
+        <item>B) Rajya Sabha</item>
+        <item>C) Lok Sabha</item>
+        <item>D) Parliament</item>
+
+        <item>8) The observation that \'Supply creates its own demand\' is popularly called?</item>
+        <item>A) Say\'s Law</item>
+        <item>B) Greham\'s Law</item>
+        <item>C) Murphy\'s Law</item>
+        <item>D) Newton\'s Law</item>
+
+        <item>9) \'Uhuru\' Peak at Mount Kilimanjaro is the highest point of which continent ?</item>
+        <item>A) Antarctica</item>
+        <item>B) Africa</item>
+        <item>C) America</item>
+        <item>D) North Australia</item>
+
+        <item>10) Under what circumstances can some of the Fundamental Rights be suspended?</item>
+        <item>A) When a proclamation of National Emergency is in operation</item>
+        <item>B) On the orders of a Court</item>
+        <item>C) During financial emergency</item>
+        <item>D) When President\'s rule is imposed</item>
+
+    </string-array>
+
+</resources>
